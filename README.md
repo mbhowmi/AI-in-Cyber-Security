@@ -8,6 +8,8 @@
 Here you will find two separate branches for two projects as part of my Master's courses.
 
 The motivation behind each project to develop techniques which will detect cyberattacks through reducing the burden from SOC analysts and enterprises can integrate this seamlessly to their environment. 
+- https://github.com/mbhowmi/AI-in-Cyber-Security/tree/Ensemble-Based-Deep-Learning-for-Unsupervised-Insider-Threat-Detection
+- https://github.com/mbhowmi/AI-in-Cyber-Security/tree/Privacy-Preserving-Alert-Based-Multi-Stage-Attack-Detection-via-LLM
 
 <h2>📺 Cyber Security Analyst | <i>Dec 2022-Jul 2024</i></h2>
 
